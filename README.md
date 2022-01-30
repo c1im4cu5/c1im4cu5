@@ -4,7 +4,7 @@
 
 ## 📝 Blogs
 
-- Personal website and blog: https://parcae.io/
+- Personal website and blog: Coming Soon!
 
 
 <!-- ## &#x1f4c8; GitHub Stats
