@@ -31,7 +31,7 @@ Email: info@parcae.io
 Blockchain, Ethereum Virtual Machine (Vyper), High Frequency Trading, Data Science, Technical Analysis
 
 ## 🌱 I’m currently learning ...
-Vyper, React
+Vyper, Golang
 
 ## 🗂️ Highlight Projects
 
