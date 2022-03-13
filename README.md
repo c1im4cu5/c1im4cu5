@@ -4,9 +4,9 @@
 
 ![](https://github.com/c1im4cu5/c1im4cu5/blob/main/godsCollectionBanner.png)
 
-## 📝 Blogs
+## 📝 Development Hub
 
-- Personal website and blog: Coming Soon!
+- [a link](https://parcae.io)
 
 
 <!-- ## &#x1f4c8; GitHub Stats
