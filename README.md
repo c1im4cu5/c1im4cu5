@@ -6,7 +6,7 @@
 
 ## 📝 Development Hub
 
-- [a link](https://parcae.io)
+- [Parcae.io](https://parcae.io)
 
 
 <!-- ## &#x1f4c8; GitHub Stats
