@@ -35,6 +35,6 @@ Vyper, Golang
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/c1im4cu5/Carbon-Websocket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c1im4cu5&repo=Carbon-Websocket&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Carbon-Websocket" />
+<a href="https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c1im4cu5&repo=0xcarbon_Desktop_Trading_App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="0xcarbon_Desktop_Trading_App" />
 </a>
