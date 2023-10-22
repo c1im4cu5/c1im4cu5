@@ -25,7 +25,9 @@
 
 
 ## 📫 How to reach me:
-Email: info@parcae.io
+Email: thebrotherscain@gmail.com
+[Telegram: ](https://t.me/c1im4cu5) <br>
+
 
 ## 👯 I’m looking to collaborate on ...
 Blockchain, Ethereum Virtual Machine (Vyper), High Frequency Trading, Data Science, Technical Analysis
