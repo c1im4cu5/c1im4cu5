@@ -26,7 +26,7 @@
 
 ## 📫 How to reach me:
 Email: thebrotherscain@gmail.com <br />
-[Telegram: ](https://t.me/c1im4cu5) <br />
+Telegram: [https://t.mT/c1im4cu5)](https://t.me/c1im4cu5) <br />
 
 
 ## 👯 I’m looking to collaborate on ...
