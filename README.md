@@ -33,10 +33,10 @@ Telegram: [https://t.mT/c1im4cu5](https://t.me/c1im4cu5) <br />
 Blockchain, Ethereum Virtual Machine (Vyper), High Frequency Trading, Data Science, Technical Analysis
 
 ## 🌱 I’m currently learning ...
-Vyper, Golang
+Golang, Rust and refining Vyper contracts
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/c1im4cu5/0xcarbon_Desktop_Trading_App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c1im4cu5&repo=0xcarbon_Desktop_Trading_App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="0xcarbon_Desktop_Trading_App" />
+<a href="https://github.com/c1im4cu5/RecipeNFT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c1im4cu5&repo=RecipeNFT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="RecipeNFT" />
 </a>
