@@ -4,10 +4,10 @@
 
 ![](https://github.com/c1im4cu5/c1im4cu5/blob/main/godsCollectionBanner.png)
 
-## 📝 Development Hub
+## 🛠️ Development Hub
 
 - [Parcae.io](https://parcae.io)
-
+- [eVow.io](https://evow.io)
 
 <!-- ## &#x1f4c8; GitHub Stats
 
@@ -31,9 +31,6 @@ Telegram: [https://t.mT/c1im4cu5](https://t.me/c1im4cu5) <br />
 
 ## 👯 I’m looking to collaborate on ...
 Blockchain, Ethereum Virtual Machine (Vyper), High Frequency Trading, Data Science, Technical Analysis
-
-## 🌱 I’m currently learning ...
-Golang, Rust and refining Vyper contracts
 
 ## 🗂️ Highlight Projects
 
