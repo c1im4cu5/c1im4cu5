@@ -34,6 +34,10 @@ Blockchain, Ethereum Virtual Machine (Vyper), High Frequency Trading, Data Scien
 
 ## 🗂️ Highlight Projects
 
+<a href="https://github.com/eVowIO/Vyper_Contracts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eVowIO&repo=Vyper_Contracts&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="eVow Vyper Contracts" />
+</a>
+
 <a href="https://github.com/c1im4cu5/RecipeNFT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c1im4cu5&repo=RecipeNFT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="RecipeNFT" />
 </a>
