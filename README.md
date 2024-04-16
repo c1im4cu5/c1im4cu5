@@ -1,3 +1,9 @@
+<style>
+  .github-card {
+    height: 200px; /* Adjust the height as needed */
+  }
+</style>
+
 # Hello and Welcome
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -34,10 +40,10 @@ Blockchain, Ethereum Virtual Machine (Vyper), High Frequency Trading, Data Scien
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/eVowIO/Vyper_Contracts">
+<a href="https://github.com/eVowIO/Vyper_Contracts" class="github-card">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eVowIO&repo=Vyper_Contracts&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="eVow Vyper Contracts" />
 </a>
 
-<a href="https://github.com/c1im4cu5/RecipeNFT">
+<a href="https://github.com/c1im4cu5/RecipeNFT" class="github-card">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c1im4cu5&repo=RecipeNFT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="RecipeNFT" />
 </a>
