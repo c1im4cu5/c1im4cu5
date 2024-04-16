@@ -32,17 +32,18 @@ Telegram: [https://t.mT/c1im4cu5](https://t.me/c1im4cu5) <br />
 ## 👯 I’m looking to collaborate on ...
 Blockchain, Ethereum Virtual Machine (Vyper), High Frequency Trading, Data Science, Technical Analysis
 
-## 🗂️ Highlight Projects
+## 🗂️ Highlighted Projects
 
-<div style="height: 200px;"> <!-- Adjust the height as needed -->
+<div style="display: inline-block; width: 45%;"> <!-- Adjust width as needed -->
   <a href="https://github.com/eVowIO/Vyper_Contracts">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eVowIO&repo=Vyper_Contracts&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="eVow Vyper Contracts" />
   </a>
 </div>
 
-<div style="height: 200px;"> <!-- Adjust the height as needed -->
+<div style="display: inline-block; width: 45%;"> <!-- Adjust width as needed -->
   <a href="https://github.com/c1im4cu5/RecipeNFT">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c1im4cu5&repo=RecipeNFT&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="RecipeNFT" />
   </a>
 </div>
+
 
