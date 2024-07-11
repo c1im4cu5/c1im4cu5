@@ -6,7 +6,6 @@
 
 ## 🛠️ Development Hub
 
-- [Parcae.io](https://parcae.io)
 - [eVow.io](https://evow.io)
 
 <!-- ## &#x1f4c8; GitHub Stats
