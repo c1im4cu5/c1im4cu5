@@ -18,35 +18,39 @@
 
 ## 🗂️ Highlighted Projects
 
-<div align="center">
-  
-[![eVow Vyper Contracts](https://github-readme-stats.vercel.app/api/pin/?username=eVowIO&repo=Vyper_Contracts&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/eVowIO/Vyper_Contracts)
-[![RecipeNFT](https://github-readme-stats.vercel.app/api/pin/?username=c1im4cu5&repo=RecipeNFT&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/c1im4cu5/RecipeNFT)
-
-</div>
+<p align="center">
+  <a href="https://github.com/eVowIO/Vyper_Contracts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eVowIO&repo=Vyper_Contracts&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="eVow Vyper Contracts" />
+  </a>
+  <a href="https://github.com/c1im4cu5/RecipeNFT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1im4cu5&repo=RecipeNFT&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="RecipeNFT" />
+  </a>
+</p>
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/c1im4cu5/c1im4cu5">
+    <img src="https://github-readme-stats.vercel.app/api?username=c1im4cu5&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/c1im4cu5/c1im4cu5">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c1im4cu5&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Top Languages" />
+  </a>
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c1im4cu5&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/c1im4cu5/c1im4cu5)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c1im4cu5&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact)](https://github.com/c1im4cu5/c1im4cu5)
-
-<br />
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=c1im4cu5&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=c1im4cu5&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ## 📫 Let's Connect
 
-<div align="center">
-
-<a href="mailto:thebrotherscain@gmail.com">
-  <img src="https://img.shields.io/badge/Email-thebrotherscain%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://t.me/c1im4cu5">
-  <img src="https://img.shields.io/badge/Telegram-c1im4cu5-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:thebrotherscain@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thebrotherscain%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/c1im4cu5">
+    <img src="https://img.shields.io/badge/Telegram-c1im4cu5-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
