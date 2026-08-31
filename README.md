@@ -1,4 +1,4 @@
-![](https://github.com/c1im4cu5/c1im4cu5/blob/main/CainLogo.png)
+![](https://github.com/c1im4cu5/c1im4cu5/blob/main/CainIncLogo.jpg)
 
 # Hello and Welcome
 
