@@ -5,7 +5,7 @@
 
   # 👋 Hello, Welcome to my GitHub
 
-  **Blockchain Development | High Frequency Trading | Data Science**
+  **Blockchain, Mobile App and Website Development | High Frequency Trading | Data Science and Engineering**
 </div>
 
 ---
